@@ -1,6 +1,6 @@
 [Project]
-FileName=funcao_vetores.dev
-Name=funcao_vetores
+FileName=Ex01.dev
+Name=Ex01
 Type=1
 Ver=2
 ObjFiles=
@@ -27,8 +27,8 @@ CommandLine=
 Folders=
 IncludeVersionInfo=0
 SupportXPThemes=0
-CompilerSet=0
-CompilerSettings=0000000000000000001000000
+CompilerSet=2
+CompilerSettings=0000000000000000100000000
 UnitCount=1
 
 [VersionInfo]
